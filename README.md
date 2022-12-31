@@ -8,11 +8,11 @@ Hey there! I am **_[Edward Vincent Cuevas](https://www.facebook.com/DwrdVncntCvs
 
 ### 💼 _Where I'm working?_
 
-- **_[Full Scale](https://fullscale.io/) (Fulltime Work from home)_**
+&nbsp;&nbsp;&nbsp;&nbsp; **_[Full Scale](https://fullscale.io/) (Fulltime Work from home)_**
 
 ### 🏠 **_Where I'm from?_**
 
-- _Cuenca Batangas, Philippines_
+&nbsp;&nbsp;&nbsp;&nbsp; _[Cuenca Batangas, Philippines](https://goo.gl/maps/WouJZtVkgYrkvqMV9)_
 
 ### 🧑‍💻 **_What technologies or languages I know?_**
 
