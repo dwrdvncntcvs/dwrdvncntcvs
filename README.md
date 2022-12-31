@@ -45,7 +45,7 @@ Hey there! I am **_[Edward Vincent Cuevas](https://www.facebook.com/DwrdVncntCvs
 ### ☎️ **_How to reach me?_**
 
 &nbsp;
-**_[![Gmail](https://github.com/dwrdvncntcvs/dwrdvncntcvs/blob/Sample/assets/gmail.svg)&nbsp;Gmail ](edwardvincentcuevas7@gmail.com)_** &nbsp;|&nbsp;
+**_[![Gmail](https://github.com/dwrdvncntcvs/dwrdvncntcvs/blob/Sample/assets/gmail.svg)&nbsp;Gmail ](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfqccQrHxSJrJnVhXSjrcRFKgCZmxnsZQQNQPJhgjhVmpLNQkGqsKsJCnQJRkFmRXMtlxV)_** &nbsp;|&nbsp;
 **_[![Facebook](https://github.com/dwrdvncntcvs/dwrdvncntcvs/blob/Sample/assets/facebook.svg)&nbsp;Facebook](https://www.facebook.com/DwrdVncntCvs.7/)_** &nbsp;|&nbsp;
 **_[![Twitter](https://github.com/dwrdvncntcvs/dwrdvncntcvs/blob/Sample/assets/twitter.svg)&nbsp;Twitter](https://twitter.com/dwrdvncntcvs)_** &nbsp;|&nbsp;
 **_[![LinkedIn](https://github.com/dwrdvncntcvs/dwrdvncntcvs/blob/Sample/assets/linkedin.svg)&nbsp;LinkedIn](https://twitter.com/dwrdvncntcvs)_** &nbsp;|&nbsp;
