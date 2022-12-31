@@ -46,8 +46,14 @@ Hey there! I am **_[Edward Vincent Cuevas](https://www.facebook.com/DwrdVncntCvs
 ### ☎️ **_How to reach me?_**
 
 &nbsp;
-[![Gmail](/assets/gmail.svg)](edwardvincentcuevas7@gmail.com) &nbsp;Gmail &nbsp;|&nbsp;
-[![Facebook](/assets/facebook.svg)](https://www.facebook.com/DwrdVncntCvs.7/) &nbsp;Facebook &nbsp;|&nbsp;
-[![Twitter](/assets/twitter.svg)](https://twitter.com/dwrdvncntcvs) &nbsp;Twitter &nbsp;|&nbsp;
-[![LinkedIn](/assets/linkedin.svg)](https://twitter.com/dwrdvncntcvs) &nbsp;LinkedIn &nbsp;|&nbsp;
-[<img src="assets/dwrdvncntcvs_logo.png" height="20">](https://edwardvincentcuevas.pages.dev/about-me) &nbsp;Personal Website
+**_[![Gmail](https://github.com/dwrdvncntcvs/dwrdvncntcvs/blob/Sample/assets/gmail.svg)&nbsp;Gmail ](edwardvincentcuevas7@gmail.com)_** &nbsp;|&nbsp;
+**_[![Facebook](https://github.com/dwrdvncntcvs/dwrdvncntcvs/blob/Sample/assets/facebook.svg)&nbsp;Facebook](https://www.facebook.com/DwrdVncntCvs.7/)_** &nbsp;|&nbsp;
+**_[![Twitter](https://github.com/dwrdvncntcvs/dwrdvncntcvs/blob/Sample/assets/twitter.svg)&nbsp;Twitter](https://twitter.com/dwrdvncntcvs)_** &nbsp;|&nbsp;
+**_[![LinkedIn](https://github.com/dwrdvncntcvs/dwrdvncntcvs/blob/Sample/assets/linkedin.svg)&nbsp;LinkedIn](https://twitter.com/dwrdvncntcvs)_** &nbsp;|&nbsp;
+**_[<img src="https://github.com/dwrdvncntcvs/dwrdvncntcvs/blob/Sample/assets/dwrdvncntcvs_logo.png" height="20">&nbsp;Personal Website](https://edwardvincentcuevas.pages.dev/about-me)_**
+
+**_"There is always one more bug to fix"_**
+
+**_Happy Coding! Peace Out!_**
+
+![!gif](assets\giphy.gif)
