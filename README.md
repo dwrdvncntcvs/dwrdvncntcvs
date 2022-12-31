@@ -1,5 +1,7 @@
 # DWRDVNCNTCVS
 
+<img src="https://github.com/dwrdvncntcvs/dwrdvncntcvs/blob/Sample/assets/giphy.gif" width="100%">
+
 ### 🪪 **_Bio_**
 
 Hey there! I am **_[Edward Vincent Cuevas](https://www.facebook.com/DwrdVncntCvs.7/)_**. I live in Cuenca Batangas, located in the Philippines. I graduated Bachelor of Science in Information Technology, majoring in Network Technology. Throughout my days at university, I tend to focus more on programming and developing web and mobile applications to sharpen my understanding of the concepts and techniques in this field. My deep passion and love for building, creating, and learning new things drive me to strive hard and dream big.
@@ -55,5 +57,3 @@ Hey there! I am **_[Edward Vincent Cuevas](https://www.facebook.com/DwrdVncntCvs
 **_"There is always one more bug to fix"_**
 
 **_Happy Coding! Peace Out!_**
-
-![!gif](https://github.com/dwrdvncntcvs/dwrdvncntcvs/blob/Sample/assets/giphy.gif)
