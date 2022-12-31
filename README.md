@@ -18,7 +18,7 @@
   [![ExpressJS](https://github.com/dwrdvncntcvs/dwrdvncntcvs/blob/Sample/assets/express.svg)](https://expressjs.com/)
   [![Sequelize](https://github.com/dwrdvncntcvs/dwrdvncntcvs/blob/Sample/assets/sequelize.svg)](https://sequelize.org/)
   [![PostgreSQL](https://github.com/dwrdvncntcvs/dwrdvncntcvs/blob/Sample/assets/postgresql.svg)](https://www.postgresql.org/)
-  [![MongoDB](https://github.com/dwrdvncntcvs/dwrdvncntcvs/blob/Sample/assets/Mongodb.svg)](https://www.mongodb.com/)
+  [![MongoDB](https://github.com/dwrdvncntcvs/dwrdvncntcvs/blob/Sample/assets/mongodb.svg)](https://www.mongodb.com/)
 
   [![Python](https://github.com/dwrdvncntcvs/dwrdvncntcvs/blob/Sample/assets/python.svg)](https://www.python.org/)
   [![Django](https://github.com/dwrdvncntcvs/dwrdvncntcvs/blob/Sample/assets/django.svg)](https://www.djangoproject.com/)
@@ -34,7 +34,7 @@
   [![ReactJS](https://github.com/dwrdvncntcvs/dwrdvncntcvs/blob/Sample/assets/react.svg)](https://reactjs.org/)
   [![Redux](https://github.com/dwrdvncntcvs/dwrdvncntcvs/blob/Sample/assets/redux.svg)](https://redux.js.org/)
   [![Ionic](https://github.com/dwrdvncntcvs/dwrdvncntcvs/blob/Sample/assets/ionic.svg)](https://ionicframework.com/)
-  [![SASS]([assets\](https://github.com/dwrdvncntcvs/dwrdvncntcvs/blob/Sample/assets/)sass.svg)](https://sass-lang.com/)
+  [![SASS](https://github.com/dwrdvncntcvs/dwrdvncntcvs/blob/Sample/assets/sass.svg)](https://sass-lang.com/)
 
 - #### 📌 **_Package Managers:_**
 
