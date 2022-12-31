@@ -41,7 +41,7 @@
   [![NPM](https://github.com/dwrdvncntcvs/dwrdvncntcvs/blob/Sample/assets/npm.svg)](https://www.npmjs.com/)
   [![Yarn](https://github.com/dwrdvncntcvs/dwrdvncntcvs/blob/Sample/assets/yarn.svg)](https://yarnpkg.com/)
 
-### **_How to reach me?_**
+### ☎️ **_How to reach me?_**
 
 - Email: edwardvincentcuevas7@gmail.com
 - Facebook: https://www.facebook.com/DwrdVncntCvs.7/
