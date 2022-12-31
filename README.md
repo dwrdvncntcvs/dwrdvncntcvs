@@ -17,7 +17,6 @@ Hey there! I am **_[Edward Vincent Cuevas](https://www.facebook.com/DwrdVncntCvs
 ### 🧑‍💻 **_What technologies or languages I know?_**
 
 > #### 📌 **_Backend Development Technologies:_**
-
 > [![Javascript](https://github.com/dwrdvncntcvs/dwrdvncntcvs/blob/Sample/assets/javascript.svg)](https://www.javascript.com/)
 [![Typescript](https://github.com/dwrdvncntcvs/dwrdvncntcvs/blob/Sample/assets/typescript.svg)](https://www.typescriptlang.org/)
 [![NodeJS](https://github.com/dwrdvncntcvs/dwrdvncntcvs/blob/Sample/assets/nodedotjs.svg)](https://nodejs.org/en/)
@@ -29,8 +28,7 @@ Hey there! I am **_[Edward Vincent Cuevas](https://www.facebook.com/DwrdVncntCvs
 [![Django](https://github.com/dwrdvncntcvs/dwrdvncntcvs/blob/Sample/assets/django.svg)](https://www.djangoproject.com/)
 [![Firebase](https://github.com/dwrdvncntcvs/dwrdvncntcvs/blob/Sample/assets/firebase.svg)](https://firebase.google.com/)
 
-- #### 📌 **_Frontend Development Development Technologies:_**
-
+> #### 📌 **_Frontend Development Development Technologies:_**
 > [![HTML5](https://github.com/dwrdvncntcvs/dwrdvncntcvs/blob/Sample/assets/html5.svg)](https://www.w3schools.com/html/)
 [![CSS3](https://github.com/dwrdvncntcvs/dwrdvncntcvs/blob/Sample/assets/css3.svg)](https://www.w3schools.com/css/)
 [![Javascript](https://github.com/dwrdvncntcvs/dwrdvncntcvs/blob/Sample/assets/javascript.svg)](https://www.javascript.com/)
@@ -40,8 +38,7 @@ Hey there! I am **_[Edward Vincent Cuevas](https://www.facebook.com/DwrdVncntCvs
 [![Ionic](https://github.com/dwrdvncntcvs/dwrdvncntcvs/blob/Sample/assets/ionic.svg)](https://ionicframework.com/)
 [![SASS](https://github.com/dwrdvncntcvs/dwrdvncntcvs/blob/Sample/assets/sass.svg)](https://sass-lang.com/)
 
-- #### 📌 **_Package Managers:_**
-
+> #### 📌 **_Package Managers:_**
 > [![NPM](https://github.com/dwrdvncntcvs/dwrdvncntcvs/blob/Sample/assets/npm.svg)](https://www.npmjs.com/)
 [![Yarn](https://github.com/dwrdvncntcvs/dwrdvncntcvs/blob/Sample/assets/yarn.svg)](https://yarnpkg.com/)
 
