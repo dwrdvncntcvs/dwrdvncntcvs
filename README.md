@@ -56,4 +56,4 @@ Hey there! I am **_[Edward Vincent Cuevas](https://www.facebook.com/DwrdVncntCvs
 
 **_Happy Coding! Peace Out!_**
 
-![!gif](assets\giphy.gif)
+![!gif](https://github.com/dwrdvncntcvs/dwrdvncntcvs/blob/Sample/assets/giphy.gif)
